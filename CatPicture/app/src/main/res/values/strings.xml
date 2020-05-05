@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CatPicture</string>
+    <string name="motivational">TextView</string>
+</resources>

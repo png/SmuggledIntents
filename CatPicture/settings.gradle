@@ -1,0 +1,2 @@
+rootProject.name='CatPicture'
+include ':app'
